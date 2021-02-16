@@ -1,0 +1,11 @@
+{
+    "name": "celso/mywallet",
+    "type": "project",
+    "authors": [
+        {
+            "name": "CcorpunaSc",
+            "email": "celso.ccoropuna.s@gmail.com"
+        }
+    ],
+    "require": {}
+}
